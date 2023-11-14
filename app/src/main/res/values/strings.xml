@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sigmotoa Converter</string>
+    <string name="topbar_title">Conversor</string>
+    <string name="calculator">Calculadora</string>
+    <string name="pokemon">Pokemon del día</string>
+
+    <string-array name="systems">
+
+        <item>Octal</item>
+        <item>Binario</item>
+        <item>Hexadecimal</item>
+    </string-array>
+    <string name="number">Número</string>
+    <string name="convert">Convertir</string>
+</resources>

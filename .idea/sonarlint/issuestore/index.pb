@@ -1,0 +1,25 @@
+
+r
+Bapp/src/main/java/com/sigmotoa/sigmotoaconverter/ui/theme/Color.kt,4/1/416fa60519623a5bc05e36a913a4e919419e138d
+r
+Bapp/src/main/java/com/sigmotoa/sigmotoaconverter/ui/theme/Theme.kt,6/4/643f8b3e1d78b754a881d3f8620361cfca6228a8
+o
+?app/src/main/java/com/sigmotoa/sigmotoaconverter/screen/Home.kt,3/7/37966bcb1f5d6e93ae9222b59627459f11cc3fd6
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+z
+Japp/src/main/java/com/sigmotoa/sigmotoaconverter/screen/ConverterScreen.kt,9/c/9c93247400692f85d5768f84a57d1358948bf74f
+p
+@app/src/main/java/com/sigmotoa/sigmotoaconverter/MainActivity.kt,5/f/5f058c74b0c03721efcb2d9c7a1a5a311d57b553
+}
+Mapp/src/main/java/com/sigmotoa/sigmotoaconverter/screen/ConverterViewModel.kt,4/c/4c60cb8942817a5f84b0e70ddf81d2c984437d69
+s
+Capp/src/main/java/com/sigmotoa/sigmotoaconverter/data/ApiService.kt,7/6/76fd0ac08869ff40d1572b7d96c6bfb72468e5e2
+w
+Gapp/src/main/java/com/sigmotoa/sigmotoaconverter/data/ResultInstance.kt,a/0/a0fcbe6e3aa29b5af36165a7a6e88acbdd2ef979
+y
+Iapp/src/main/java/com/sigmotoa/sigmotoaconverter/data/ResultRepository.kt,4/5/4500311f428804a1ed5a1c134e62f6434a131302
+o
+?app/src/main/java/com/sigmotoa/sigmotoaconverter/data/Result.kt,8/f/8f8c19f2f4f708767557af2132c211eea8e9f1df
